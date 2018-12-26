@@ -6977,8 +6977,14 @@
       "links": {},
       "address": "0xaf17077d2419f196977bf6afdb3173bdc09f1a7e",
       "transactionHash": "0xf8e4e035e138ca0b2347ec3a6a91d7e319aae751712f75a1c80437d5febdeffc"
+    },
+    "5792": {
+      "events": {},
+      "links": {},
+      "address": "0xaf17077d2419f196977bf6afdb3173bdc09f1a7e",
+      "transactionHash": "0xf8e4e035e138ca0b2347ec3a6a91d7e319aae751712f75a1c80437d5febdeffc"
     }
   },
   "schemaVersion": "2.0.1",
-  "updatedAt": "2018-12-26T11:04:14.532Z"
+  "updatedAt": "2018-12-26T11:29:59.045Z"
 }
